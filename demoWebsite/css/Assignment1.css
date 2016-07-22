@@ -1,0 +1,99 @@
+
+.header{
+	background: #cc0000;
+	padding-top: 30px;
+	position:fixed;
+}
+
+.heading{
+	font-family: 'Abril Fatface', cursive;
+	font-size: 40px;
+}
+nav ul li{
+	display: inline;
+    font-family: 'Indie Flower', cursive;
+	padding-left: 20px;
+
+
+}
+nav ul li a{
+	color: black;
+}
+ul a:hover{
+	text-decoration: underline;
+	font-size: 22px;
+}
+.navigation{
+	margin-top: 20px;
+	margin-left: 30px;
+
+}
+.section1{
+	
+	margin-top: 100px;
+	float: left;
+}
+.section2{
+
+margin-top: 100px;
+}
+.title2 img{
+	margin-top: 12px;
+}
+.para{
+	text-align:justify;
+
+}
+.pic{
+	width: 300px;
+	height: 210px;
+
+}
+.des{
+	font-family: 'Lobster', cursive;
+}
+.hero{
+	height: 1730px;
+}
+.heroimg{
+	margin-top: 20px;
+  width: 960px;
+}
+.text{
+	margin-top: 10px;
+		font-family: 'Abril Fatface', cursive;
+		text-align: center;
+		background: #FF6699;
+
+}
+.divisions2{
+	margin-top: 50px;
+
+
+}
+.poster{
+	margin-top: 5px;
+
+
+}
+.footers{
+	background: #666666;
+	overflow: hidden;
+	margin-top: 0px;
+	clear: both;
+}
+.rating{
+	background: #00FF00;
+	margin-top: 80px;
+	padding-bottom: 30px;
+	text-align: center;
+	text-decoration-style: solid;
+	font-family: 'Oswald', sans-serif;
+}
+.footers p{
+	text-align: center;
+}
+.logo{
+	margin-top: 10px;
+	text-align: center;
+}

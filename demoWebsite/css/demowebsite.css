@@ -1,0 +1,22 @@
+.container_12{
+	background: red;
+}
+nav li{
+	background: white;
+	display: inline;
+
+}
+ul a:hover{
+	text-decoration: underline;
+	font-size: 22px;
+}
+.primary{
+	background: yellow;
+	overflow: hidden;
+}
+header{
+	background: green;
+}
+.main{
+	margin-top: 20px;
+}
