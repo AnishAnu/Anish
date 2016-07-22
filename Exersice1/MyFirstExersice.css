@@ -1,0 +1,12 @@
+div{
+	margin:auto;
+	width: 400px;
+
+}
+body{
+	background:grey;
+}
+.para{
+	text-align: center;
+	border: 1px solid white;
+}

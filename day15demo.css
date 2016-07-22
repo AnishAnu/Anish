@@ -1,0 +1,22 @@
+.wrap{
+	width: 600px;
+	margin: auto;
+	background: yellow;
+}
+.content{
+	background: red;
+	float: left;
+
+}
+aside
+{
+	background:green;
+	
+
+
+}
+aside ul{
+	list-style: none;
+	padding-left: 10px;
+	text-align: center;
+}
