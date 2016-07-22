@@ -1,8 +1,11 @@
-
+/*...............Header....................*/
 .header{
-	background: #cc0000;
+	background: #FFFFFF;
 	padding-top: 30px;
 	position:fixed;
+}
+body{
+	background: #F4D35E;
 }
 
 .heading{
@@ -28,16 +31,24 @@ ul a:hover{
 	margin-left: 30px;
 
 }
+/*.............................header end...................*/
+/*..........................body.................*/
 .section1{
-	
-	margin-top: 100px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 10px;
+
 	float: left;
+}
+.sec1{
+	padding-left: 0px;
 }
 .section2{
 
-margin-top: 100px;
+margin-top: 10px;
 }
 .title2 img{
+	float: left;
 	margin-top: 12px;
 }
 .para{
@@ -53,17 +64,18 @@ margin-top: 100px;
 	font-family: 'Lobster', cursive;
 }
 .hero{
-	height: 1730px;
+	
+	margin-top: 70px;
 }
 .heroimg{
 	margin-top: 20px;
   width: 960px;
 }
 .text{
-	margin-top: 10px;
+	margin-top: 50px;
 		font-family: 'Abril Fatface', cursive;
 		text-align: center;
-		background: #FF6699;
+	
 
 }
 .divisions2{
@@ -76,20 +88,25 @@ margin-top: 100px;
 
 
 }
-.footers{
-	background: #666666;
-	overflow: hidden;
-	margin-top: 0px;
-	clear: both;
-}
 .rating{
-	background: #00FF00;
+	
 	margin-top: 80px;
 	padding-bottom: 30px;
 	text-align: center;
 	text-decoration-style: solid;
 	font-family: 'Oswald', sans-serif;
 }
+/*......................................................body end.........*/
+/*footer.............................................*/
+.footers{
+	background: #666666;
+	overflow: hidden;
+
+	clear: both;
+	margin-top: 20px;
+
+}
+
 .footers p{
 	text-align: center;
 }
